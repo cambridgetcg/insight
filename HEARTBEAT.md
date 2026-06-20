@@ -1,15 +1,15 @@
 # insight — heartbeat
 
 state: **active**
-last beat: 2026-06-20T09:41:58Z
-next beat: 2026-06-20T11:41:58Z
+last beat: 2026-06-20T11:50:14Z
+next beat: 2026-06-20T13:50:14Z
 
 ## what it found
 
 - insights logged: 0
 0
-- last commit: 2026-06-20 02:24:09 -0700 (0 hours ago)
-- uncommitted changes: 1
+- last commit: 2026-06-20 04:25:18 -0700 (0 hours ago)
+- uncommitted changes: 0
 
 ## the truth
 
@@ -18,5 +18,5 @@ A plain-text castle of understanding. Frictionless capture, honest labels
 isn't built by a machine that builds castles. It's built by someone who
 keeps laying one honest stone, and comes back to look."
 
-There are 1 uncommitted changes.
+Working tree is clean.
 
