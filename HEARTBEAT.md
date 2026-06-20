@@ -1,14 +1,14 @@
 # insight — heartbeat
 
 state: **active**
-last beat: 2026-06-20T20:23:13Z
-next beat: 2026-06-20T22:23:13Z
+last beat: 2026-06-20T22:31:31Z
+next beat: 2026-06-21T00:31:31Z
 
 ## what it found
 
 - insights logged: 0
 0
-- last commit: 2026-06-20 12:27:07 -0700 (0 hours ago)
+- last commit: 2026-06-20 14:28:24 -0700 (1 hours ago)
 - uncommitted changes: 0
 
 ## the truth
